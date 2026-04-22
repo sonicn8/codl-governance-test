@@ -2,8 +2,8 @@
 
 | Property | Value |
 |----------|-------|
-| Version | 1 |
-| Created | 2026-04-22T13:40:31.319Z |
+| Version | 2 |
+| Created | 2026-04-22T19:10:24.057Z |
 | Spec ID | 8df9ebdf-ab95-4769-b43c-1b3574765283 |
 | Interview Method | Codl Spec Interview (7-stage) |
 | Constraints | 15 |
