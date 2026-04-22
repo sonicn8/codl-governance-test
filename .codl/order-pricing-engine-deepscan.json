@@ -1,0 +1,7 @@
+{
+  "specId": "8df9ebdf-ab95-4769-b43c-1b3574765283",
+  "specName": "Order Pricing Engine",
+  "scannedAt": "2026-04-22T13:40:31.428Z",
+  "note": "Deep-scan edge cases are merged into the specification's edgeCases array. This log records the cross-spec analysis metadata.",
+  "edgeCasesInSpec": 14
+}
