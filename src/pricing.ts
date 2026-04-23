@@ -23,7 +23,7 @@ const PROMO_CODES: Record<string, number> = {
   SAVE20: 0.20,
 };
 
-const FREE_SHIPPING_THRESHOLD = 50;
+const FREE_SHIPPING_THRESHOLD = 40;
 const STANDARD_SHIPPING = 5.99;
 
 export function calculateOrderTotal(input: OrderInput): OrderTotal {
@@ -51,3 +51,9 @@ export function calculateOrderTotal(input: OrderInput): OrderTotal {
     total: afterDiscount + tax + shipping,
   };
 }
+// debounce commit 1
+// debounce commit 2
+// debounce commit 3
+// debounce commit 1
+// debounce commit 2
+// debounce commit 3
