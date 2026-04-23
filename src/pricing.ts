@@ -52,3 +52,4 @@ export function calculateOrderTotal(input: OrderInput): OrderTotal {
   };
 }
 // direct commit test 1776951514
+// subtest B: suspended state PR test 1776954467
