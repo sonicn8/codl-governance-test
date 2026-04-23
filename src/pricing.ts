@@ -24,7 +24,7 @@ const PROMO_CODES: Record<string, number> = {
 };
 
 const FREE_SHIPPING_THRESHOLD = 50;
-const STANDARD_SHIPPING = 5.99;
+const STANDARD_SHIPPING = 7.99;
 
 export function calculateOrderTotal(input: OrderInput): OrderTotal {
   const subtotal = input.items.reduce(
