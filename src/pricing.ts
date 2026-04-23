@@ -54,3 +54,4 @@ export function calculateOrderTotal(input: OrderInput): OrderTotal {
 // direct commit test 1776951514
 // ADR-005 fix validation 1776963882
 // ADR-005 fix: confirm normal operation resumed 1776964192
+// ADR-005 active-path retry post neon upgrade 1776966121
