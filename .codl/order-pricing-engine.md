@@ -258,4 +258,4 @@ Monetary rounding — all five return fields rounded to 2 decimal places using h
 
 ## File Manifest
 
-*To be populated during intent anchoring (Phase 2).*
+- `src/pricing.ts`
