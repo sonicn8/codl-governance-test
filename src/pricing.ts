@@ -2,6 +2,8 @@
  * Calculate order pricing with discount rules.
  * Business logic: promo codes apply BEFORE tax,
  * free shipping threshold is $50 post-discount.
+ *
+ * See .codl/order-pricing-engine.md for the governance contract.
  */
 
 export interface OrderInput {
